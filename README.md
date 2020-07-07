@@ -1,1 +1,3 @@
 # Linear_Regression_Salary
+
+Throughout the course of the challenge assignment, we were asked to perform a multitude of different tests on the data given to us by LendingClub. These tests included, SMOTEENN, oversampling, undersamping, and the Easy Ensemble AdaBoost Classifier. Out of all of these tests, the Easy Ensemble AdaBoost Classifier proved to the be the best test performed due to its accuracy score of around 99%. One aspect that I learned to be really useful is the function pd.getdummies(). Pd.getdummies() proved to be the best method in terms of getting the string values within the tables to become numerical, thus allowing us to perform these tests. 
